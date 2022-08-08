@@ -326,7 +326,7 @@ body {
   }
 
   .hero .hero-textbox {
-    padding: 0 12rem;
+    padding: 0 2.4rem;
     align-items: center;
     text-align: center;
   }
@@ -372,7 +372,7 @@ body {
   }
 
   .box {
-    width: 70%;
+    width: 85%;
     margin: 0 auto;
   }
 }
